@@ -1,6 +1,6 @@
 body {
     margin: 0px;
-    background: violet;
+    background: black;
     background: linear-gradient(90deg, rgba(204, 94, 136, 0.877) 0%, rgba(241, 71, 71, 0.936) 57%, rgba(0, 212, 255, 1) 100%, rgba(7, 141, 124, 1) 100%);
 }
 
@@ -52,9 +52,9 @@ header>span {
 .brand-name>button {
     padding: 5px 66.5px;
     background-color: rgb(197, 240, 128);
-    color: white;
+    color: violet;
     transform: translateY(-4px);
-    box-shadow: 0px 4px 4px lightgray;
+    box-shadow: 0px 4px 4px blue;
     border-color: transparent;
     transition: 2s;
     cursor: pointer;
